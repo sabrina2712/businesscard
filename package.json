@@ -1,20 +1,20 @@
 {
-  "name": "natterstefan",
+  "name": "roshni",
   "version": "1.1.0",
-  "description": "Stefan Natter (@natterstefan)'s business card",
+  "description": "Sabrina Roshni (@roshni2712)'s business card",
   "main": "./bin/card.js",
   "bin": {
-    "natterstefan": "./bin/card.js"
+    "roshni": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/natterstefan/businesscard.git"
+    "url": "https://github.com/roshni2712/businesscard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Stefan Natter",
+  "author": "Sabrina Roshni ",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
